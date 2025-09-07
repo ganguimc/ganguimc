@@ -30,7 +30,7 @@ feature4-desc: "支持从 1.8 到 1.21 的所有 Minecraft 版本，包括基岩
 faq-title: "常见问题"
 faq-subtitle: "常见问题解答"
 faq1-question: "如何加入服务器？"
-faq1-answer: "启动 Minecraft（Java 版 1.8 至 1.21 或基岩版），进入\\"多人游戏\\"，然后\\"添加服务器\\"并输入地址：mc.gangui.eu"
+faq1-answer: "启动 Minecraft（Java 版 1.8 至 1.21 或基岩版），进入多人游戏，然后添加服务器并输入地址：mc.gangui.eu"
 faq2-question: "允许使用破解版吗？"
 faq2-answer: "是的，您可以使用 hidden.gangui.eu IP 地址连接破解版。这将为您提供一个随机用户名和匿名访问权限。"
 faq3-question: "匿名连接如何工作？"

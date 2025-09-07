@@ -30,7 +30,7 @@ feature4-desc: "Joacă pe toate versiunile Minecraft de la 1.8 la 1.21, inclusiv
 faq-title: "Întrebări frecvente"
 faq-subtitle: "Întrebări frecvente"
 faq1-question: "Cum să te alături serverului?"
-faq1-answer: "Lansează Minecraft (Java Edition 1.8 & 1.21 sau Bedrock), mergi la \\"Multiplayer\\", apoi \\"Adaugă Server\\" și introdu adresa: mc.gangui.eu"
+faq1-answer: "Lansează Minecraft (Java Edition 1.8 & 1.21 sau Bedrock), mergi la Multiplayer, apoi Adaugă Server și introdu adresa: mc.gangui.eu"
 faq2-question: "Sunt permise versiunile piratate?"
 faq2-answer: "Da, te poți conecta cu o versiune piratată folosind adresa IP hidden.gangui.eu. Aceasta îți va oferi un nume de utilizator aleatoriu și acces anonim."
 faq3-question: "Cum funcționează conexiunea anonimă?"

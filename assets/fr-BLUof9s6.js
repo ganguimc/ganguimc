@@ -30,7 +30,7 @@ feature4-desc: "Jouez sur toutes les versions de Minecraft de 1.8 & 1.21, y comp
 faq-title: "FAQ"
 faq-subtitle: "Questions Fréquemment Posées"
 faq1-question: "Comment rejoindre le serveur ?"
-faq1-answer: "Lancez Minecraft (Java Edition 1.8 & 1.21 ou Bedrock), allez dans \\"Multijoueur\\", puis \\"Ajouter un serveur\\" et entrez l'adresse : mc.gangui.eu"
+faq1-answer: "Lancez Minecraft (Java Edition 1.8 & 1.21 ou Bedrock), allez dans Multijoueur, puis Ajouter un serveur et entrez l'adresse : mc.gangui.eu"
 faq2-question: "Les versions crackées sont-elles autorisées ?"
 faq2-answer: "Oui, vous pouvez vous connecter avec une version crackée en utilisant l'adresse hidden.gangui.eu. Cela vous donnera un pseudo aléatoire et un accès anonyme."
 faq3-question: "Comment fonctionne la connexion anonyme ?"

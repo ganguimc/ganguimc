@@ -30,7 +30,7 @@ feature4-desc: "Juega en todas las versiones de Minecraft desde 1.8 y 1.21, ¡in
 faq-title: "FAQ"
 faq-subtitle: "Preguntas Frecuentes"
 faq1-question: "¿Cómo unirse al servidor?"
-faq1-answer: "Lanza Minecraft (Edición Java 1.8 y 1.21 o Bedrock), ve a \\"Multijugador\\", luego \\"Agregar Servidor\\" e ingresa la dirección: mc.gangui.eu"
+faq1-answer: "Lanza Minecraft (Edición Java 1.8 y 1.21 o Bedrock), ve a Multijugador, luego Agregar Servidor e ingresa la dirección: mc.gangui.eu"
 faq2-question: "¿Se permiten versiones crackeadas?"
 faq2-answer: "Sí, puedes conectarte con una versión crackeada usando la dirección IP hidden.gangui.eu. Esto te dará un nombre de usuario aleatorio y acceso anónimo."
 faq3-question: "¿Cómo funciona la conexión anónima?"
