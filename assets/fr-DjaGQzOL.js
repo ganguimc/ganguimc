@@ -85,6 +85,9 @@ stats-search-error: 'Erreur de recherche'
 stats-skin-error: 'Erreur lors du chargement de la peau'
 stats-status-online: 'En ligne'
 stats-status-offline: 'Hors ligne'
+stats-banned: 'Banni'
+stats-was-banned: 'A été banni'
+stats-winrate-by-game: 'Taux de victoire par jeu'
 
 # Stats (extra)
 stats-played-games: 'Parties jouées'

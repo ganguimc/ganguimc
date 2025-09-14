@@ -85,6 +85,9 @@ stats-search-error: 'Search error'
 stats-skin-error: 'Error loading skin'
 stats-status-online: 'Online'
 stats-status-offline: 'Offline'
+stats-banned: 'Banned'
+stats-was-banned: 'Was banned'
+stats-winrate-by-game: 'Winrate by game'
 
 # Stats (extra)
 stats-played-games: 'Games played'

@@ -85,6 +85,9 @@ stats-search-error: 'Error de búsqueda'
 stats-skin-error: 'Error al cargar la skin'
 stats-status-online: 'En línea'
 stats-status-offline: 'Fuera de línea'
+stats-banned: 'Prohibido'
+stats-was-banned: 'Fue prohibido'
+stats-winrate-by-game: 'Porcentaje de victorias por juego'
 
 # Logo / Misc
 logo-brand: 'GANGUI'

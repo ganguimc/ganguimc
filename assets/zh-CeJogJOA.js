@@ -1,4 +1,4 @@
-const t=`nav-home: '首页'
+const n=`nav-home: '首页'
 nav-features: '特色'
 nav-faq: '常见问题'
 nav-join: '加入'
@@ -85,6 +85,9 @@ stats-search-error: '搜索错误'
 stats-skin-error: '皮肤加载错误'
 stats-status-online: '在线'
 stats-status-offline: '离线'
+stats-banned: '已封禁'
+stats-was-banned: '曾被封禁'
+stats-winrate-by-game: '按游戏模式胜率'
 
 logo-brand: 'GANGUI'
 current-lang: '中文'
@@ -97,4 +100,4 @@ stats-of-games: '的对局'
 role-member: '会员'
 role-admin: '管理员'
 role-build: '建造'
-`;export{t as default};
+`;export{n as default};
