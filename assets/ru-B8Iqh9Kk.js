@@ -86,7 +86,8 @@ stats-skin-error: 'Ошибка загрузки скина'
 stats-status-online: 'Онлайн'
 stats-status-offline: 'Оффлайн'
 stats-banned: 'Забанен'
-stats-was-banned: 'Был забанен'
+stats-was-banned: 'ex-забанен'
+stats-banned-until: 'До: {date}'
 stats-winrate-by-game: 'Винрейт по режимам'
 
 # Stats (extra)
@@ -98,8 +99,9 @@ rank-member: 'УЧАСТНИК'
 rank-admin: 'АДМИН'
 rank-build: 'BUILD'
 
+stats-rate-limited: 'Слишком много запросов. Пожалуйста, попробуйте снова через мгновение.'
 # Logo / Misc
 logo-brand: 'GANGUI'
 current-lang: 'Русский'
 `;export{n as default};
-//# sourceMappingURL=ru-yFrHsctz.js.map
+//# sourceMappingURL=ru-B8Iqh9Kk.js.map

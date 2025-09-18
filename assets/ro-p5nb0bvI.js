@@ -86,7 +86,8 @@ stats-skin-error: 'Eroare la încărcarea pielii'
 stats-status-online: 'Online'
 stats-status-offline: 'Offline'
 stats-banned: 'Banat'
-stats-was-banned: 'A fost banat'
+stats-was-banned: 'ex-banat'
+stats-banned-until: 'Până la: {date}'
 stats-winrate-by-game: 'Rată de câștig pe joc'
 
 # Stats (extra)
@@ -98,8 +99,9 @@ rank-member: 'MEMBRU'
 rank-admin: 'ADMIN'
 rank-build: 'BUILD'
 
+stats-rate-limited: 'Prea multe solicitări. Vă rugăm să încercați din nou în curând.'
 # Logo / Misc
 logo-brand: 'GANGUI'
 current-lang: 'Română'
 `;export{e as default};
-//# sourceMappingURL=ro-DX3o3TjT.js.map
+//# sourceMappingURL=ro-p5nb0bvI.js.map

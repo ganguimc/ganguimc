@@ -86,7 +86,8 @@ stats-skin-error: 'Erreur lors du chargement de la peau'
 stats-status-online: 'En ligne'
 stats-status-offline: 'Hors ligne'
 stats-banned: 'Banni'
-stats-was-banned: 'A déjà été banni'
+stats-was-banned: 'ex-banni'
+stats-banned-until: "Jusqu'au: {date}"
 stats-winrate-by-game: 'Taux de victoire par jeu'
 
 # Stats (extra)
@@ -98,8 +99,9 @@ rank-member: 'MEMBRE'
 rank-admin: 'ADMIN'
 rank-build: 'BUILD'
 
+stats-rate-limited: 'Trop de requêtes. Veuillez réessayer dans un moment.'
 # Logo / Divers
 logo-brand: 'GANGUI'
 current-lang: 'Français'
 `;export{e as default};
-//# sourceMappingURL=fr-B6VbGQDT.js.map
+//# sourceMappingURL=fr-DnZvGKnx.js.map

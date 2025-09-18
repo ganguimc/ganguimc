@@ -86,7 +86,8 @@ stats-skin-error: 'Fehler beim Laden des Skins'
 stats-status-online: 'Online'
 stats-status-offline: 'Offline'
 stats-banned: 'Gesperrt'
-stats-was-banned: 'Wurde gesperrt'
+stats-was-banned: 'ehemals gesperrt'
+stats-banned-until: 'Bis: {date}'
 stats-winrate-by-game: 'Siegrate je Spiel'
 
 # Stats (extra)
@@ -98,8 +99,9 @@ rank-member: 'MITGLIED'
 rank-admin: 'ADMIN'
 rank-build: 'BUILD'
 
+stats-rate-limited: 'Zu viele Anfragen. Bitte versuchen Sie es in einem Moment erneut.'
 # Logo / Misc
 logo-brand: 'GANGUI'
 current-lang: 'Deutsch'
 `;export{e as default};
-//# sourceMappingURL=de-BimZFpsG.js.map
+//# sourceMappingURL=de-DhmTBIQv.js.map

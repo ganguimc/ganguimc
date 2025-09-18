@@ -86,7 +86,7 @@ stats-skin-error: '皮肤加载错误'
 stats-status-online: '在线'
 stats-status-offline: '离线'
 stats-banned: '已封禁'
-stats-was-banned: '曾被封禁'
+stats-was-banned: '前封禁'
 stats-winrate-by-game: '按游戏模式胜率'
 
 # Stats (extra)
@@ -98,8 +98,9 @@ rank-member: '会员'
 rank-admin: '管理员'
 rank-build: '建造'
 
+stats-rate-limited: '请求过多。请稍后重试。'
 # Logo / Misc
 logo-brand: 'GANGUI'
 current-lang: '中文'
 `;export{n as default};
-//# sourceMappingURL=zh-D6jUM9a6.js.map
+//# sourceMappingURL=zh-BKrBHJC9.js.map
